@@ -1,5 +1,5 @@
 # 💫About Me :
-Hey there! I'm Yvan, currently working on BearRoom, a Kahoot-style board game platform making digital board games more interactive and fun 🐻🚪🎲. I'm currently learning and looking to collaborate on more AR/VR experiences and gesture tracking using MediaPipe. 
+Hey there! I'm Yvan, currently working on BearRoom, a Kahoot-style board game platform making digital board games more interactive and fun 🐻🚪🎲. Check out some ideas I want to work on [here](https://github.com/yvanchu/idea-incubator), and feel free to reach out if you want to work together on any of them :). 
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RaWRBHaRqH) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yvan.chu.37) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yvan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/evenyvan) 
