@@ -8,7 +8,7 @@ I care about great product craft, accessibility, and shipping fast with high qua
 
 ## What I'm building
 
-🃏 **[Bullet Poker](https://blitz-holdemclient-production.up.railway.app)** — Heads-up poker where you bet time instead of chips. Real-time multiplayer built with React, TypeScript, and WebSockets. *(repo coming soon)*
+🃏 **[Bullet Poker](https://github.com/yvanchu/blitz-holdem)** — Heads-up poker where you bet time instead of chips. Real-time multiplayer built with React, TypeScript, and WebSockets. [Play with friends here](https://blitz-holdemclient-production.up.railway.app)
 
 🍵 **[Brewlong](https://github.com/yvanchu/brewlong)** — Tools I built for my wife's tea pop-up: a Python integration between Square POS and Niimbot label printers (including fixing the unmaintained BLE library), plus a [brew timer web app](https://yvanchu.github.io/brewlong/timer/).
 
